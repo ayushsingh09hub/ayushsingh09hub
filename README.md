@@ -8,8 +8,7 @@ Welcome to my GitHub! I'm a passionate **Website Developer**, **App Developer**,
 
 - 💻 I design and develop responsive, user-friendly websites.  
 - 📱 I create mobile apps that blend clean design with powerful functionality.  
-- 🎮 I develop interactive games using modern tools and engines.  
-- 🤖 I explore the world of Artificial Intelligence, Machine Learning, and automation.  
+- 🎮 I develop interactive games using modern tools and engines.    
 - 🧠 I'm always learning new technologies to push my limits as a **Software Developer**.
 
 ---
@@ -17,7 +16,7 @@ Welcome to my GitHub! I'm a passionate **Website Developer**, **App Developer**,
 ## 🛠️ Tech Stack
 
 **Languages:** JavaScript, Python, C#, Java, HTML, CSS  
-**Frameworks & Tools:** React, Node.js, Django, Unity, Flutter, TensorFlow  
+**Frameworks & Tools:** React, Node.js, Django, Unity, Flutter  
 **Databases:** MySQL, MongoDB, Firebase  
 **Version Control:** Git, GitHub  
 
@@ -36,7 +35,7 @@ Welcome to my GitHub! I'm a passionate **Website Developer**, **App Developer**,
 
 - Portfolio: [your-portfolio-link]  
 - LinkedIn: [your-linkedin-link]  
-- Email: [your-email]  
+- Email: aesissiha@gmail.com  
 
 ---
 
