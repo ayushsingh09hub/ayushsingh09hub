@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Ayush Singh
 
-Welcome to my GitHub! I'm a passionate **Website Developer**, **App Developer**, **Game Developer**, and **AI Enthusiast** who loves building creative and practical digital experiences.
+Welcome to my GitHub! I'm a passionate **Website Developer**, **App Developer** and **Game Developer** who loves building creative and practical digital experiences.
 
 ---
 
