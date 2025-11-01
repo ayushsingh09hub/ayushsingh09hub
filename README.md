@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate **Website Developer**, **App Developer** 
 
 - 💻 I design and develop responsive, user-friendly websites.  
 - 📱 I create mobile apps that blend clean design with powerful functionality.  
-- 🎮 I develop interactive games using modern tools and engines.    
+- 🎮 I develop interactive application & games using modern tools and engines.    
 - 🧠 I'm always learning new technologies to push my limits as a **Software Developer**.
 
 ---
